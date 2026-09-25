@@ -1,0 +1,5147 @@
+[
+  {
+    "group": "101",
+    "course": 1,
+    "groupLanguage": "ru",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 0,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.M.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J.M. (202)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Algebra",
+                  "Abdurashitov R.A. (308)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Djalolova G.T",
+                "room": "304",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Djalolova G.T (304)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Ahtamova G.T",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Ahtamova G.T (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Algebra",
+                  "Abdurashitov R.A.(308)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "O‘zbek tili",
+                "teacher": "Yodgorova G.R.",
+                "room": "103",
+                "sourceText": [
+                  "O‘zbek tili",
+                  "Yodgorova G.R. (103)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Abdurashitov R.A. (308)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Djalolova G.T",
+                "room": "304",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Djalolova G.T (304)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.M.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J.M. (202)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.M.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J.M. (202)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Algebra",
+                  "Abdurashitov R.A. (308)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "O‘zbek tili",
+                "teacher": "Yodgorova G.R.",
+                "room": "103",
+                "sourceText": [
+                  "O‘zbek tili",
+                  "Yodgorova G.R. (103)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Geometriya",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "205",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (205)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Geografiya",
+                "teacher": "Tashmuxamedov R",
+                "room": "301",
+                "sourceText": [
+                  "Geografiya",
+                  "Tashmuxamedov R (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Algebra",
+                  "Abdurashitov R.A.(308)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.M.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J.M. (202)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Shanazarov Q.",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Shanazarov Q. (216)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.M.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J.M. (202)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Geometriya",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Maqsudova Z",
+                "room": "205",
+                "sourceText": [
+                  "Tarbiya",
+                  "Maqsudova Z (205)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Geometriya",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Algebra",
+                  "Abdurashitov R.A. (308)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "--------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Ahtamova G.T",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Ahtamova G.T (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Geometriya",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Shanazarov Q.",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Shanazarov Q. (216)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Abdurashitov R.A.",
+                "room": "308",
+                "sourceText": [
+                  "Algebra",
+                  "Abdurashitov R.A.(308)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.M.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J.M. (202)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova N",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova N (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Suyunov S",
+                "room": "213",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Suyunov S (213)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "102",
+    "course": 1,
+    "groupLanguage": "uz",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 1,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Mansurova",
+                "room": "312",
+                "sourceText": [
+                  "Geometriya",
+                  "Mansurova (312)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbonboyeva M.",
+                "room": "104",
+                "sourceText": [
+                  "Rus tili ",
+                  "Qurbonboyeva M. (104)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Azimova G.",
+                "room": "201",
+                "sourceText": [
+                  "Fizika",
+                  "Azimova G. (201)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Ibodov O‘",
+                "room": "213",
+                "sourceText": [
+                  "Fizika",
+                  "Ibodov O‘ (213)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova N",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova N (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Xusenov Z",
+                "room": "310",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Xusenov Z (310)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Geografiya",
+                "teacher": "Tashmuxamedov R",
+                "room": "310",
+                "sourceText": [
+                  "Geografiya",
+                  "Tashmuxamedov R (310)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Mansurova",
+                "room": "312",
+                "sourceText": [
+                  "Geometriya",
+                  "Mansurova (312)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Xusenov Z",
+                "room": "310",
+                "sourceText": [
+                  "Algebra",
+                  "Xusenov Z (310)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Xusenov Z",
+                "room": "310",
+                "sourceText": [
+                  "Algebra",
+                  "Xusenov Z (310)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Ibodov O‘",
+                "room": "213",
+                "sourceText": [
+                  "Fizika",
+                  "Ibodov O‘ (213)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbonboyeva M.",
+                "room": "104",
+                "sourceText": [
+                  "Rus tili ",
+                  "Qurbonboyeva M. (104)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Saidaxmedova Z.",
+                "room": "302",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Saidaxmedova Z. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Azimova G.",
+                "room": "201",
+                "sourceText": [
+                  "Fizika",
+                  "Azimova G. (201)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Ibodov O‘",
+                "room": "213",
+                "sourceText": [
+                  "Fizika",
+                  "Ibodov O‘ (213)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Ona tili",
+                "teacher": "Mamarizayeva D.",
+                "room": "301",
+                "sourceText": [
+                  "Ona tili",
+                  "Mamarizayeva D. (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Abduxamidova",
+                "room": "217",
+                "sourceText": [
+                  "Informatika",
+                  "Abduxamidova (217)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Xusenov Z",
+                "room": "310",
+                "sourceText": [
+                  "Algebra",
+                  "Xusenov Z (310)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Xusenov Z",
+                "room": "310",
+                "sourceText": [
+                  "Algebra",
+                  "Xusenov Z (310)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdusattarov",
+                "room": "312",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdusattarov (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tohirova M",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tohirova M (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "-----"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Xalikova G",
+                "room": "205",
+                "sourceText": [
+                  "Tarbiya",
+                  "Xalikova G (205)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Azimova G.",
+                "room": "201",
+                "sourceText": [
+                  "Fizika",
+                  "Azimova G. (201)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Xusenov Z",
+                "room": "310",
+                "sourceText": [
+                  "Algebra",
+                  "Xusenov Z (310)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Xusenov Z",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Xusenov Z (312)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Xayrullayeva E",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Xayrullayeva E (216)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tohirova M",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tohirova M (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdusattarov",
+                "room": "303",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdusattarov (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "103",
+    "course": 1,
+    "groupLanguage": "uz",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 2,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "201",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (201)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "215",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z.(215)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Xayrullayeva E",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Xayrullayeva E (219)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Xayrullayeva E",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Xayrullayeva E (219)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M",
+                "room": "215",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M (215)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Algebra",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Jumanov A.A.",
+                "room": "204",
+                "sourceText": [
+                  "Fizika",
+                  "Jumanov A.A. (204)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Jumanov A.A.",
+                "room": "204",
+                "sourceText": [
+                  "Fizika",
+                  "Jumanov A.A. (204)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Umarova M",
+                "room": "203",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Umarova M (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Saidaxmedova Z.",
+                "room": "302",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Saidaxmedova Z. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Jumanov A.A.",
+                "room": "204",
+                "sourceText": [
+                  "Fizika",
+                  "Jumanov A.A. (204)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "203",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Algebra",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Jumanov A.A.",
+                "room": "204",
+                "sourceText": [
+                  "Fizika",
+                  "Jumanov A.A. (204)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova N",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova N (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Ona tili",
+                "teacher": "Mamarizayeva D.",
+                "room": "301",
+                "sourceText": [
+                  "Ona tili",
+                  "Mamarizayeva D. (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Geografiya",
+                "teacher": "Tashmuhammedov R",
+                "room": "301",
+                "sourceText": [
+                  "Geografiya",
+                  "Tashmuhammedov R (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Algebra",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Jumanov A.A.",
+                "room": "204",
+                "sourceText": [
+                  "Fizika",
+                  "Jumanov A.A. (204)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "---"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "----"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Jumanov A.A.",
+                "room": "204",
+                "sourceText": [
+                  "Fizika",
+                  "Jumanov A.A. (204)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Umarova M",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Umarova M (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdullayev N.",
+                "room": "313",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdullayev N. (313)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "314",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (314)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Xalikova",
+                "room": "101",
+                "sourceText": [
+                  "Tarbiya",
+                  "Xalikova (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "104",
+    "course": 1,
+    "groupLanguage": "uz",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 3,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Geografiya",
+                "teacher": "Tashmuhammedov R.",
+                "room": "310",
+                "sourceText": [
+                  "Geografiya",
+                  "Tashmuhammedov R. (310)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Norqulova J.",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Norqulova J. (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Geometriya",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Algebra",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbonboyeva M.",
+                "room": "104",
+                "sourceText": [
+                  "Rus tili",
+                  "Qurbonboyeva M. (104)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Algebra",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Narbayev S.",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Narbayev S. (219)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "----"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Umarova",
+                "room": "304",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Umarova  (304)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Algebra",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Algebra",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Norqulova J.",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Norqulova J. (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Ona tili",
+                "teacher": "Mamarizayeva.",
+                "room": "301",
+                "sourceText": [
+                  "Ona tili",
+                  "Mamarizayeva. (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Xalikova",
+                "room": "311",
+                "sourceText": [
+                  "Tarbiya",
+                  "Xalikova  (311)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Narbayev S.",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Narbayev S. (219)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Algebra",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdusattorov I.",
+                "room": "204",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdusattorov I. (204)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova N",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova N (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Saidaxmedova Z.",
+                "room": "302",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Saidaxmedova Z. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Algebra",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbonboyeva M.",
+                "room": "104",
+                "sourceText": [
+                  "Rus tili",
+                  "Qurbonboyeva M. (104)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Ro‘ziqulov S.",
+                "room": "102",
+                "sourceText": [
+                  "Geometriya",
+                  "Ro‘ziqulov S. (102)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "203",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Umarova",
+                "room": "203",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Umarova  (203)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Abdusattorov I.",
+                "room": "205",
+                "sourceText": [
+                  "Geometriya",
+                  "Abdusattorov I. (205)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "105",
+    "course": 1,
+    "groupLanguage": "ru",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 4,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Djalolova G.T",
+                "room": "304",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Djalolova G.T (304)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Shanazarov Q.",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Shanazarov Q. (216)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Miraxmedov M.",
+                "room": "207",
+                "sourceText": [
+                  "Fizika",
+                  "Miraxmedov M. (207)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Masimova G.",
+                "room": "311",
+                "sourceText": [
+                  "Algebra",
+                  "Masimova G. (311)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Norqulova J.",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Norqulova J.  (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Qurbanbayeva M.",
+                "room": "101",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Qurbanbayeva M. (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Masimova G.",
+                "room": "311",
+                "sourceText": [
+                  "Algebra",
+                  "Masimova G. (311)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "O‘zbek tili",
+                "teacher": "Yodgorova G.R.",
+                "room": "103",
+                "sourceText": [
+                  "O‘zbek tili",
+                  "Yodgorova G.R. (103)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Masimova G.",
+                "room": "311",
+                "sourceText": [
+                  "Geometriya",
+                  "Masimova G. (311)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Norqulova J.",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Norqulova J. (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Shanazarov Q.",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Shanazarov Q. (216)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Babaxanova Z.",
+                "room": "312",
+                "sourceText": [
+                  "Geometriya",
+                  "Babaxanova Z. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Babaxanova Z.",
+                "room": "215",
+                "sourceText": [
+                  "Algebra",
+                  "Babaxanova Z. (215)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "O‘zbek tili",
+                "teacher": "Yodgorova G.R.",
+                "room": "103",
+                "sourceText": [
+                  "O‘zbek tili",
+                  "Yodgorova G.R. (103)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Norqulova J.",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Norqulova J. (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Masimova G.",
+                "room": "311",
+                "sourceText": [
+                  "Algebra",
+                  "Masimova G. (311)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Babaxanova Z.",
+                "room": "215",
+                "sourceText": [
+                  "Algebra",
+                  "Babaxanova Z. (215)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Djalolova G.T",
+                "room": "304",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Djalolova G.T (304)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Nemis tili",
+                "teacher": "Qodirova R.",
+                "room": "220",
+                "sourceText": [
+                  "Nemis tili",
+                  "Qodirova R. (220)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Nemis tili",
+                "teacher": "Qodirova R.",
+                "room": "220",
+                "sourceText": [
+                  "Nemis tili",
+                  "Qodirova R. (220)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Georgrafiya",
+                "teacher": "Tashmuhammedov R.",
+                "room": "302",
+                "sourceText": [
+                  "Georgrafiya",
+                  "Tashmuhammedov R.(302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Masimova G.",
+                "room": "311",
+                "sourceText": [
+                  "Geometriya",
+                  "Masimova G. (311)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Babaxanova Z.",
+                "room": "215",
+                "sourceText": [
+                  "Geometriya",
+                  "Babaxanova Z. (215)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Maqsudova Z",
+                "room": "205",
+                "sourceText": [
+                  "Tarbiya",
+                  "Maqsudova Z (205)`"
+                ],
+                "sourceColumn": 1,
+                "sourceSuffix": "`"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:00",
+            "sourceTime": "1320-1400",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova N",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova N (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Djalolova G.T",
+                "room": "304",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Djalolova G.T (304)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Babaxanova Z.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Babaxanova Z. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Suyunov S",
+                "room": "213",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Suyunov S (213)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbanbayeva",
+                "room": "308",
+                "sourceText": [
+                  "Rus tili",
+                  "Qurbanbayeva (308)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "106",
+    "course": 1,
+    "groupLanguage": "ru",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 5,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Shanazarov Q.",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Shanazarov Q. (216)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Ziyoda",
+                "room": "204",
+                "sourceText": [
+                  "Geometriya",
+                  "Ziyoda (204)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Nemis tili",
+                "teacher": "Qodirova R.",
+                "room": "220",
+                "sourceText": [
+                  "Nemis tili",
+                  "Qodirova R. (220)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Axtamova Z",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Axtamova Z (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Axtamova Z",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Axtamova Z (303)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Nemis tili",
+                "teacher": "Qodirova R.",
+                "room": "220",
+                "sourceText": [
+                  "Nemis tili",
+                  "Qodirova R. (220)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Uralov G‘",
+                "room": "208",
+                "sourceText": [
+                  "Geometriya",
+                  "Uralov G‘ (208)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "-------"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Suyunov S",
+                "room": "311",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Suyunov S (311)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Shanazarov Q.",
+                "room": "216",
+                "sourceText": [
+                  "Informatika",
+                  "Shanazarov Q. (216)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "O‘zbek tili",
+                "teacher": "Yodgorova G.R.",
+                "room": "103",
+                "sourceText": [
+                  "O‘zbek tili",
+                  "Yodgorova G.R. (103)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Axtamova Z",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Axtamova Z (303)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Ziyoda",
+                "room": "314",
+                "sourceText": [
+                  "Geometriya",
+                  "Ziyoda (314)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Axtamova Z",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Axtamova Z (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "O‘zbek tili",
+                "teacher": "Yodgorova G.R.",
+                "room": "103",
+                "sourceText": [
+                  "O‘zbek tili",
+                  "Yodgorova G.R. (103)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Axtamova Z",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Axtamova Z (303)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Uralov G‘",
+                "room": "208",
+                "sourceText": [
+                  "Geometriya",
+                  "Uralov G‘ (208)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Maqsudova Z",
+                "room": "205",
+                "sourceText": [
+                  "Tarbiya",
+                  "Maqsudova Z (205)`"
+                ],
+                "sourceColumn": 1,
+                "sourceSuffix": "`"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Miraxmedov M.",
+                "room": "201",
+                "sourceText": [
+                  "Fizika",
+                  "Miraxmedov M. (201)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Georgrafiya",
+                "teacher": "Tashmuhammedov R.",
+                "room": "205",
+                "sourceText": [
+                  "Georgrafiya",
+                  "Tashmuhammedov R. (205)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Axtamova Z",
+                "room": "303",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Axtamova Z (303)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Rahmatova G.",
+                "room": "306",
+                "sourceText": [
+                  "Algebra",
+                  "Rahmatova G. (306)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "205",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (205)`"
+                ],
+                "sourceColumn": 1,
+                "sourceSuffix": "`"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "107",
+    "course": 1,
+    "groupLanguage": "uz",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 6,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Bekmurodova M.",
+                "room": "218",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Bekmurodova M. (218)",
+                  ""
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Madrimov M.",
+                "room": "203",
+                "sourceText": [
+                  "Geometriya",
+                  "Madrimov M. (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Georgrafiya",
+                "teacher": "Tashmuhammedov R.",
+                "room": "302",
+                "sourceText": [
+                  "Georgrafiya",
+                  "Tashmuhammedov R. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Mansurova M.",
+                "room": "205",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Mansurova M. (205)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Bekmurodova M.",
+                "room": "220",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Bekmurodova M. (220)",
+                  ""
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Matqurbonov G.",
+                "room": "218",
+                "sourceText": [
+                  "Geometriya",
+                  "Matqurbonov G. (218)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "305",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (202)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tahirova M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tahirova M. (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Xoliqova G.",
+                "room": "302",
+                "sourceText": [
+                  "Tarbiya",
+                  "Xoliqova G. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Ona tili",
+                "teacher": "Mamarizayeva D.",
+                "room": "301",
+                "sourceText": [
+                  "Ona tili",
+                  "Mamarizayeva D. (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Saidaxmedova Z.",
+                "room": "302",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Saidaxmedova Z. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Nemis tili",
+                "teacher": "Abduraximova M.",
+                "room": "201",
+                "sourceText": [
+                  "Nemis tili",
+                  "Abduraximova M. (201)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tahirova M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tahirova M. (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Madrimov M.",
+                "room": "203",
+                "sourceText": [
+                  "Geometriya",
+                  "Madrimov M. (203)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Matqurbonov G.",
+                "room": "218",
+                "sourceText": [
+                  "Geometriya",
+                  "Matqurbonov G. (218)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "220",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (220)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Abduxamidova Sh.",
+                "room": "217",
+                "sourceText": [
+                  "Informatika",
+                  "Abduxamidova Sh. (217)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "---------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Abduxamidova Sh.",
+                "room": "217",
+                "sourceText": [
+                  "Informatika",
+                  "Abduxamidova Sh. (217)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "215",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (215)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tahirova M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tahirova M. (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova M.",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova M. (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Bekmurodova M.",
+                "room": "204",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Bekmurodova M. (204)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Nemis tili",
+                "teacher": "Abduraximova M.",
+                "room": "220",
+                "sourceText": [
+                  "Nemis tili",
+                  "Abduraximova M. (220)",
+                  ""
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "108",
+    "course": 1,
+    "groupLanguage": "uz",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 7,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Xoliqova",
+                "room": "311",
+                "sourceText": [
+                  "Tarbiya",
+                  "Xoliqova (311)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova M.",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova M. (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M. (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Matqurbonov G.",
+                "room": "218",
+                "sourceText": [
+                  "Geometriya",
+                  "Matqurbonov G. (218)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Abdullayeva M..",
+                "room": "302",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Abdullayeva M.. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Ona tili",
+                "teacher": "Mamarizayeva D.",
+                "room": "301",
+                "sourceText": [
+                  "Ona tili",
+                  "Mamarizayeva D. (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Geografiya",
+                "teacher": "Tashmuhammedov",
+                "room": "201",
+                "sourceText": [
+                  "Geografiya",
+                  "Tashmuhammedov(201)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M. (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Abdusattorov I.",
+                "room": "218",
+                "sourceText": [
+                  "Algebra",
+                  "Abdusattorov I. (218)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Matqurbonov G.",
+                "room": "218",
+                "sourceText": [
+                  "Geometriya",
+                  "Matqurbonov G. (218)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Abdusattorov I.",
+                "room": "208",
+                "sourceText": [
+                  "Algebra",
+                  "Abdusattorov I. (208)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbonbayeva M.",
+                "room": "104",
+                "sourceText": [
+                  "Rus tili",
+                  "Qurbonbayeva M. (104)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Nemis tili",
+                "teacher": "Abduraximova M.",
+                "room": "218",
+                "sourceText": [
+                  "Nemis tili",
+                  "Abduraximova M. (218)",
+                  ""
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Madrimov M.",
+                "room": "103",
+                "sourceText": [
+                  "Algebra",
+                  "Madrimov M. (103)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Abduxamidova Sh.",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Abduxamidova Sh. (219)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Abduxamidova Sh.",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Abduxamidova Sh. (219)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M.",
+                "room": "215",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M. (215)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M.",
+                "room": "220",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M. (220)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Rus tili",
+                "teacher": "Qurbonbayeva M.",
+                "room": "104",
+                "sourceText": [
+                  "Rus tili",
+                  "Qurbonbayeva M. (104)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Saidaxmedova Z.",
+                "room": "302",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Saidaxmedova Z. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Matqurbonov G.",
+                "room": "218",
+                "sourceText": [
+                  "Geometriya",
+                  "Matqurbonov G. (218)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M.",
+                "room": "307",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M. (307)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Abdusattorov I.",
+                "room": "208",
+                "sourceText": [
+                  "Algebra",
+                  "Abdusattorov I. (208)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Akbarov J.",
+                "room": "202",
+                "sourceText": [
+                  "Fizika",
+                  "Akbarov J. (202)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Madrimov M.",
+                "room": "207",
+                "sourceText": [
+                  "Algebra",
+                  "Madrimov M. (207)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Abdullayeva M.",
+                "room": "218",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Abdullayeva M. (218)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Madrimov M.",
+                "room": "302",
+                "sourceText": [
+                  "Algebra",
+                  "Madrimov M. (302)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Matqurbonov G.",
+                "room": "218",
+                "sourceText": [
+                  "Geometriya",
+                  "Matqurbonov G. (218)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Nemis tili",
+                "teacher": "Abduraximova M.",
+                "room": "215",
+                "sourceText": [
+                  "Nemis tili",
+                  "Abduraximova M. (215)",
+                  ""
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "--------"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "109",
+    "course": 1,
+    "groupLanguage": "uz",
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "sourceFile": "1-kurs.2026-2027 .docx",
+    "sourceTable": 8,
+    "schedule": [
+      {
+        "day": "monday",
+        "sourceDay": "Dushanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 2,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Algebra",
+                  "Atxamov X. (314)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "204",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (204)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 3,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Geometriya",
+                  "Atxamov X. (314)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 4,
+            "options": [
+              {
+                "subject": "Jahon tarixi",
+                "teacher": "Saidaxmedova Z.",
+                "room": "302",
+                "sourceText": [
+                  "Jahon tarixi",
+                  "Saidaxmedova Z. (302)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 5,
+            "options": [
+              {
+                "subject": "Kelajak soati",
+                "teacher": "Atxamov X.",
+                "room": "202",
+                "sourceText": [
+                  "Kelajak soati",
+                  "Atxamov X. (202)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tuesday",
+        "sourceDay": "Seshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 6,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Algebra",
+                  "Atxamov X. (314)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tohirova M",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tohirova M (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 7,
+            "options": [
+              {
+                "subject": "Informatika",
+                "teacher": "Xayrullayeva E.",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Xayrullayeva E. (219) ",
+                  ""
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Geometriya",
+                  "Atxamov X. (314)",
+                  ""
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 8,
+            "options": [
+              {
+                "subject": "Kimyo",
+                "teacher": "Maqsudova M.",
+                "room": "101",
+                "sourceText": [
+                  "Kimyo",
+                  "Maqsudova M. (101)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 9,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Bekmurodova M.",
+                "room": "218",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Bekmurodova M. (218)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Informatika",
+                "teacher": "Xayrullayeva E.",
+                "room": "219",
+                "sourceText": [
+                  "Informatika",
+                  "Xayrullayeva E. (219)",
+                  ""
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wednesday",
+        "sourceDay": "Chorshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 10,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Bekmurodova M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Bekmurodova M. (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 11,
+            "options": [
+              {
+                "subject": "Geometriya",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Geometriya",
+                  "Atxamov X. (314)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tohirova M",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tohirova M (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 12,
+            "options": [
+              {
+                "subject": "Algebra",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Algebra",
+                  "Atxamov X. (314)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Nemis tili",
+                "teacher": "Abduraximova M.",
+                "room": "305",
+                "sourceText": [
+                  "Nemis tili",
+                  "Abduraximova M. (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 13,
+            "options": [
+              {
+                "subject": "Rus tili",
+                "teacher": "Maqsudova Z.",
+                "room": "208",
+                "sourceText": [
+                  "Rus tili",
+                  "Maqsudova Z. (208)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "-----"
+                ],
+                "sourceColumn": 2,
+                "variant": "B",
+                "empty": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thursday",
+        "sourceDay": "Payshanba",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 14,
+            "options": [
+              {
+                "subject": "Tarbiya",
+                "teacher": "Xoliqova",
+                "room": "205",
+                "sourceText": [
+                  "Tarbiya",
+                  "Xoliqova (205)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 15,
+            "options": [
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Bekmurodova M.",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Bekmurodova M. (305)"
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Geometriya",
+                "teacher": "Atxamov X.",
+                "room": "314",
+                "sourceText": [
+                  "Geometriya",
+                  "Atxamov X. (314)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 16,
+            "options": [
+              {
+                "subject": "Fizika",
+                "teacher": "Rustamov I.",
+                "room": "201",
+                "sourceText": [
+                  "Fizika",
+                  "Rustamov I. (201)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 17,
+            "options": [
+              {
+                "subject": "",
+                "teacher": "",
+                "room": "",
+                "sourceText": [
+                  "------"
+                ],
+                "sourceColumn": 1,
+                "variant": "A",
+                "empty": true
+              },
+              {
+                "subject": "Algebra",
+                "teacher": "Mansurova M.",
+                "room": "312",
+                "sourceText": [
+                  "Algebra",
+                  "Mansurova M. (312)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "friday",
+        "sourceDay": "Juma",
+        "lessons": [
+          {
+            "period": 1,
+            "startTime": "08:30",
+            "endTime": "09:50",
+            "sourceTime": "830-950",
+            "sourceRow": 18,
+            "options": [
+              {
+                "subject": "Geografiya",
+                "teacher": "Tashmuhammedov",
+                "room": "301",
+                "sourceText": [
+                  "Geografiya",
+                  "Tashmuhammedov (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "startTime": "10:00",
+            "endTime": "11:20",
+            "sourceTime": "1000-1120",
+            "sourceRow": 19,
+            "options": [
+              {
+                "subject": "Nemis tili",
+                "teacher": "Abduraximova M.",
+                "room": "217",
+                "sourceText": [
+                  "Nemis tili",
+                  "Abduraximova M. (217)",
+                  ""
+                ],
+                "sourceColumn": 1,
+                "variant": "A"
+              },
+              {
+                "subject": "Ingliz tili",
+                "teacher": "Tohirova M",
+                "room": "305",
+                "sourceText": [
+                  "Ingliz tili",
+                  "Tohirova M (305)"
+                ],
+                "sourceColumn": 2,
+                "variant": "B"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "startTime": "11:50",
+            "endTime": "13:10",
+            "sourceTime": "1150-1310",
+            "sourceRow": 20,
+            "options": [
+              {
+                "subject": "Jismoniy tarbiya",
+                "teacher": "Sharipov J.",
+                "room": "Sport zal",
+                "sourceText": [
+                  "Jismoniy tarbiya",
+                  "Sharipov J. (Sport zal)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "startTime": "13:20",
+            "endTime": "14:40",
+            "sourceTime": "1320-1440",
+            "sourceRow": 21,
+            "options": [
+              {
+                "subject": "Ona tili",
+                "teacher": "Mamarizayeva D.",
+                "room": "301",
+                "sourceText": [
+                  "Ona tili",
+                  "Mamarizayeva D. (301)"
+                ],
+                "sourceColumn": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

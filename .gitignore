@@ -1,0 +1,12 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env
+.env.local
+*.log
+.npm-cache/
+source-audit/
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
