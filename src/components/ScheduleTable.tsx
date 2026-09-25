@@ -57,25 +57,31 @@ export function ScheduleTable({ schedule }: ScheduleTableProps) {
                     className="border-r last:border-r-0 border-surface-200 dark:border-surface-700 px-3 py-2 align-top"
                   >
                     {hasContent ? (
-                      <div className="space-y-2">
-                        {lesson!.options.filter(o => !o.empty).map((opt, oi) => (
-                          <div key={oi} className={oi > 0 ? 'pt-2 border-t border-dashed border-surface-200 dark:border-surface-600' : ''}>
-                            {lesson!.options.filter(o => !o.empty).length > 1 && (
-                              <span className="text-xs font-medium text-surface-400 dark:text-surface-500">{opt.variant || String.fromCharCode(65 + oi)}</span>
-                            )}
-                            <div className="font-medium text-surface-800 dark:text-surface-200 leading-snug">
-                              {subjectName(opt.subject, lang)}
-                            </div>
-                            <div className="text-xs text-surface-500 dark:text-surface-400 mt-0.5">
-                              {opt.teacher}
-                            </div>
-                            {opt.room && (
-                              <div className="text-xs text-surface-400 dark:text-surface-500">
-                                {opt.room}
+                      <div className="grid gap-2">
+                        {lesson!.options.filter(o => !o.empty).map((opt, oi) => {
+                          const isMulti = lesson!.options.filter(o => !o.empty).length > 1;
+                          const accent = oi === 0 ? 'border-indigo-400 dark:border-indigo-500' : 'border-amber-400 dark:border-amber-500';
+                          return (
+                            <div key={oi} className={isMulti ? `border-l-2 ${accent} pl-2` : ''}>
+                              {isMulti && (
+                                <span className="inline-block mb-0.5 rounded bg-surface-100 px-1.5 py-px text-[11px] font-semibold text-surface-500 dark:bg-surface-700 dark:text-surface-400">
+                                  {t.option(opt.variant || String.fromCharCode(65 + oi))}
+                                </span>
+                              )}
+                              <div className="font-medium text-surface-800 dark:text-surface-200 leading-snug">
+                                {subjectName(opt.subject, lang)}
                               </div>
-                            )}
-                          </div>
-                        ))}
+                              <div className="text-xs text-surface-500 dark:text-surface-400 mt-0.5">
+                                {opt.teacher}
+                              </div>
+                              {opt.room && (
+                                <div className="text-xs text-surface-400 dark:text-surface-500">
+                                  {opt.room}
+                                </div>
+                              )}
+                            </div>
+                          );
+                        })}
                       </div>
                     ) : (
                       <span className="text-xs text-surface-300 dark:text-surface-600 italic">—</span>

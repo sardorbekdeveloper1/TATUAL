@@ -28,7 +28,12 @@ function StatusBadge({ status }: { status: LessonStatus }) {
   );
 }
 
-function OptionBlock({ option, variant, lang }: { option: LessonOption; variant?: string; lang: 'uz' | 'ru' }) {
+const subgroupColors = [
+  'border-indigo-400 dark:border-indigo-500',
+  'border-amber-400 dark:border-amber-500',
+] as const;
+
+function OptionBlock({ option, variant, lang, colorIndex }: { option: LessonOption; variant?: string; lang: 'uz' | 'ru'; colorIndex?: number }) {
   const { t } = useLanguage();
 
   if (option.empty) {
@@ -39,10 +44,13 @@ function OptionBlock({ option, variant, lang }: { option: LessonOption; variant?
     );
   }
 
+  const isSubgroup = variant != null;
+  const accentClass = isSubgroup ? subgroupColors[colorIndex ?? 0] ?? subgroupColors[0] : '';
+
   return (
-    <div className="space-y-1.5">
-      {variant && (
-        <span className="inline-flex items-center rounded-md bg-surface-100 px-2 py-0.5 text-xs font-medium text-surface-500 dark:bg-surface-700 dark:text-surface-400">
+    <div className={isSubgroup ? `border-l-[3px] ${accentClass} pl-3 space-y-1` : 'space-y-1.5'}>
+      {isSubgroup && (
+        <span className="inline-flex items-center rounded-md bg-surface-100 px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-surface-500 dark:bg-surface-700 dark:text-surface-400">
           {t.option(variant)}
         </span>
       )}
@@ -109,12 +117,9 @@ export function LessonCard({ lesson, status }: LessonCardProps) {
 
       {/* Content */}
       {multiOption ? (
-        <div className="space-y-3">
+        <div className="grid gap-3">
           {lesson.options.filter(o => !o.empty).map((option, i) => (
-            <div key={i}>
-              {i > 0 && <div className="mb-3 border-t border-dashed border-surface-200 dark:border-surface-600" />}
-              <OptionBlock option={option} variant={option.variant || String.fromCharCode(65 + i)} lang={lang} />
-            </div>
+            <OptionBlock key={i} option={option} variant={option.variant || String.fromCharCode(65 + i)} lang={lang} colorIndex={i} />
           ))}
         </div>
       ) : (
