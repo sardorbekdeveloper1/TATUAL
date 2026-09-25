@@ -4,11 +4,12 @@ import { useLanguage } from '../hooks/useLanguage';
 import { QRCard } from '../components/QRCard';
 import logoSrc from '../assets/logo/original.png';
 
+const CANONICAL_ORIGIN = 'https://tatual.vercel.app';
+
 function getBaseUrl(): string {
-  if (typeof import.meta !== 'undefined' && import.meta.env?.VITE_PUBLIC_SITE_URL) {
-    return import.meta.env.VITE_PUBLIC_SITE_URL;
-  }
-  return typeof window !== 'undefined' ? window.location.origin : '';
+  const env = import.meta.env?.VITE_PUBLIC_SITE_URL;
+  if (env) return env.replace(/\/+$/, '');
+  return CANONICAL_ORIGIN;
 }
 
 export function QRPage() {
